@@ -1,6 +1,5 @@
 const inquirer = require("inquirer");
 const color = require("colors");
-const TareaManager = require("../models/Tarea");
 const UsuarioManager = require("../models/Usuario");
 
 
